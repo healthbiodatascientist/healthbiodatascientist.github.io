@@ -6,4 +6,6 @@
 
 #### The Interactive Dashboards below will take a minute to spin up:
 
-[Acute Care Data Dashboard](https://health-map.onrender.com/)
+[Acute Care Data Dashboard for 2023/24](https://health-map.onrender.com/)
+
+[Acute Care Mixed Date Latest Data](https://latest-health.onrender.com/)
