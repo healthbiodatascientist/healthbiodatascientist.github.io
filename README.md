@@ -14,6 +14,7 @@
 
 ##### Heart Disease Dashboards
 
-[Heart Disease Prevalence in Scottsih Health Boards Data Dashboard 2024/25](https://heart-health-wdy8.onrender.com/)
+[Heart Disease Prevalence in Scottish Health Boards Data Dashboard 2024/25](https://heart-health-wdy8.onrender.com/)
+
 
 
