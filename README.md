@@ -1,4 +1,4 @@
-<p style="text-align:center">Interactive Health Data Map Dashboards</p>
+<p align="center">Interactive Health Data Map Dashboards</p>
 
 <p align="center">
   <img width="668" height="375" alt="map" src="https://github.com/user-attachments/assets/1603fb35-8773-489a-89b4-30564abfdef3" />
@@ -15,4 +15,5 @@
 ##### Heart Disease Dashboards
 
 [Heart Disease Prevalence in Scottsih Health Boards Data Dashboard 2024/25](https://heart-health-wdy8.onrender.com/)
+
 
