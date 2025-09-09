@@ -12,9 +12,14 @@
 
 [Acute Care in Scottish Health Boards Mixed Date Latest Data](https://latest-health.onrender.com/)
 
+##### Chronic Respiratory Disease Dashboards
+
+[Chronic Disease Prevalence in Scottish Health Boards Data Dashboard 2024/25](https://respiratory-health.onrender.com/)
+
 ##### Heart Disease Dashboards
 
 [Heart Disease Prevalence in Scottish Health Boards Data Dashboard 2024/25](https://heart-health-wdy8.onrender.com/)
+
 
 
 
